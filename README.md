@@ -1,16 +1,19 @@
-## Hi there 👋
+ # mwz      
 
-<!--
-**mwzsavez/mwzsavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvimento de automações, integrações e soluções com inteligência artificial aplicadas a processos contábeis e empresariais.
 
-Here are some ideas to get you started:
+## Áreas de atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automação de rotinas contábeis, fiscais e administrativas
+- Processamento de arquivos PDF, Excel, CSV e TXT
+- Integração de sistemas por APIs
+- Extração, validação e organização de dados
+- Desenvolvimento de ferramentas para análise e controle
+
+## Tecnologias
+
+Python · JavaScript · Node.js · PostgreSQL · Git · GitHub · Docker · Excel
+
+## Objetivo
+
+Criar soluções confiáveis que reduzam tarefas manuais, minimizem erros e melhorem a qualidade das informações.
