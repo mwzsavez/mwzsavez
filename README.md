@@ -39,7 +39,7 @@ de clientes.
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| **Central e-CAC** | Rotinas em lote nos portais a partir de uma lista única de empresas: DCTFWeb com importação do MIT, transmissão e download dos documentos; consultas ao Simples Nacional/SIMEI e à inscrição estadual no RS, com comprovante por empresa | JavaScript · automação de navegador |
+| **Central e-CAC** | Rotinas em lote nos portais a partir de uma lista única de empresas: DCTFWeb com importação do MIT, transmissão e download dos documentos; emissão das guias de parcelamento do Simples Nacional, da Receita Federal e da PGFN; consultas ao Simples Nacional/SIMEI e à inscrição estadual no RS, com comprovante em PDF e JSON por empresa. Passa pelos CAPTCHAs dos portais de forma automática | JavaScript · Python · automação de navegador |
 | **Apurações sem movimento** | Cruza a relação de empresas com os documentos de conferência antes de gerar as apurações de ICMS, ISSQN e PIS/COFINS sem movimento. Empresa com pendência é bloqueada com o motivo; arquivo existente nunca é sobrescrito | Python |
 | **Faturamento consolidado** | Lê apurações, balancetes e DRE de layouts suportados e organiza o faturamento por competência, consolidando matriz e filiais e apontando divergência entre apuração e contabilidade | Python |
 | **SPED Fiscal** | Cálculo do DIFAL e dos ajustes E111/E113 | Python |
